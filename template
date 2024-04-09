@@ -1,0 +1,35 @@
+# Basic
+
+Show the Docker version information
+docker -v
+
+Display system-wide information about Docker
+docker info
+
+Log in to a Docker Registry
+docker login
+
+Log out from a Docker Registry
+docker logout
+
+Search for an image in Docker Hub
+docker search <image-name>
+
+Pull an image from Docker Hub
+docker pull <image-name>
+
+Push an image to Docker Hub
+docker push <image-name>
+
+https://dashdarktemplate.webflow.io/
+
+
+Construir
+Crie novos ambientes rapidamente
+Desenvolva seus próprios aplicativos exclusivos com imagens Docker e crie vários contêineres usando Docker Compose.
+
+Integre com suas ferramentas existentes
+Docker funciona com todas as ferramentas de desenvolvimento, como VS Code, CircleCI e GitHub.
+
+Conteinerize aplicativos para obter consistência
+Execute em qualquer ambiente de forma consistente, desde Kubernetes local até AWS ECS, Azure ACI, Google GKE e muito mais.
